@@ -1,2 +1,2 @@
 # project_02
-Second project in "РАНХиГС" (настройки среды)
+Second project in "РАНХиГС"
