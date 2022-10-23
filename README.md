@@ -1,2 +1,2 @@
 # project_02
-Second project in "РАНХиГС"
+Homework archieve from "РАНХиГС"
