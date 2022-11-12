@@ -20,3 +20,5 @@ def loan_calculator(salary, expences):
     return f'Необходимо взять в долг {round(debt, 2)} рублей'
 
 print(loan_calculator(salary, expenses))
+
+# Отлично
