@@ -35,3 +35,5 @@ def length_calculator(songs_dict: dict, count: int) -> float:
 result = length_calculator(my_favorite_songs, 3)
 
 print('Три песни звучат', result, 'минут(ы)')
+
+# Отлично
