@@ -46,3 +46,4 @@ for key, value in titles.items():
     
     print(f'{key} - {total_quantity} шт, стоимость {cost} руб')
 
+# Отлично
