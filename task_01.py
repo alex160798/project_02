@@ -23,3 +23,8 @@ print(my_favorite_songs.split(', ')[0])
 print(my_favorite_songs.split(', ')[-1])
 print(my_favorite_songs.split(', ')[1])
 print(my_favorite_songs.split(', ')[-2])
+
+# Да, можно и чуть покороче
+songs = my_favorite_songs.split(', ')
+
+print(songs[0], songs[-1], songs[1], songs[-2])
